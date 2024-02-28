@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :phoenix_know_how, PhoenixKnowHow.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "1234",
   hostname: "localhost",
   database: "phoenix_know_how_dev",
   stacktrace: true,
